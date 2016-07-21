@@ -1,0 +1,39 @@
+body {
+	background-color: blue;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#green {
+	background-color: white;
+	font-size: 30px;
+	color: purple;
+	font-weight: bold;
+}
+
+#blue {
+	background-color: orange;
+}
+
+.player {
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+}
+
+.player:hover{
+	background-color: blue;
+}
+
+#white{
+	background-color: white;
+}
+
+.veterans {
+	font-size: 30px;
+	color: orange;
+	font-weight: bold;
+}
+
+.veterans:hover{
+	background-color: blue;
+}
